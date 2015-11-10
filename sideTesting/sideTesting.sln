@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sideTesting", "sideTesting\sideTesting.csproj", "{F0CC1C5F-F513-45AA-BA08-E5411ECDDD2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0CC1C5F-F513-45AA-BA08-E5411ECDDD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0CC1C5F-F513-45AA-BA08-E5411ECDDD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0CC1C5F-F513-45AA-BA08-E5411ECDDD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0CC1C5F-F513-45AA-BA08-E5411ECDDD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
